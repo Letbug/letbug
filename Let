@@ -1,0 +1,13 @@
+//variáveis da bolinha
+seja bolinha = 100;
+seja let yBolinha = 200;
+seja let diametro = 20;
+deixe let raio = diametro / 2;
+
+//variáveis do oponente
+seja let xRaqueteOponente = 585;
+seja let yRaqueteOponente = 150;
+
+//velocidade da bolinha
+deixe let velocidadeXBolinha = 6;
+deixe let
